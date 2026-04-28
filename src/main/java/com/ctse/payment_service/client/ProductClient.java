@@ -35,3 +35,5 @@ public interface ProductClient {
         public void setStock(Integer stock) { this.stock = stock; }
     }
 }
+
+// Hello world
